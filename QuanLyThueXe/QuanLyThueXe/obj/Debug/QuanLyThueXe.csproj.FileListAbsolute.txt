@@ -1,0 +1,15 @@
+D:\C#\Phần mềm quản lý thuê  xe\QuanLyThueXe\QuanLyThueXe\bin\Debug\QuanLyThueXe.exe.config
+D:\C#\Phần mềm quản lý thuê  xe\QuanLyThueXe\QuanLyThueXe\bin\Debug\QuanLyThueXe.exe
+D:\C#\Phần mềm quản lý thuê  xe\QuanLyThueXe\QuanLyThueXe\bin\Debug\QuanLyThueXe.pdb
+D:\C#\Phần mềm quản lý thuê  xe\QuanLyThueXe\QuanLyThueXe\obj\Debug\QuanLyThueXe.csproj.AssemblyReference.cache
+D:\C#\Phần mềm quản lý thuê  xe\QuanLyThueXe\QuanLyThueXe\obj\Debug\QuanLyThueXe.Properties.Resources.resources
+D:\C#\Phần mềm quản lý thuê  xe\QuanLyThueXe\QuanLyThueXe\obj\Debug\QuanLyThueXe.csproj.GenerateResource.cache
+D:\C#\Phần mềm quản lý thuê  xe\QuanLyThueXe\QuanLyThueXe\obj\Debug\QuanLyThueXe.csproj.CoreCompileInputs.cache
+D:\C#\Phần mềm quản lý thuê  xe\QuanLyThueXe\QuanLyThueXe\obj\Debug\QuanLyThueXe.exe
+D:\C#\Phần mềm quản lý thuê  xe\QuanLyThueXe\QuanLyThueXe\obj\Debug\QuanLyThueXe.pdb
+D:\C#\Phần mềm quản lý thuê  xe\QuanLyThueXe\QuanLyThueXe\obj\Debug\QuanLyThueXe.HomePanel.resources
+D:\C#\Phần mềm quản lý thuê  xe\QuanLyThueXe\QuanLyThueXe\obj\Debug\QuanLyThueXe.GUI.KhachHangPanel.resources
+D:\C#\Phần mềm quản lý thuê  xe\QuanLyThueXe\QuanLyThueXe\obj\Debug\QuanLyThueXe.GUI.LichSuThueXePanel.resources
+D:\C#\Phần mềm quản lý thuê  xe\QuanLyThueXe\QuanLyThueXe\obj\Debug\QuanLyThueXe.GUI.ThueXePanel.resources
+D:\C#\Phần mềm quản lý thuê  xe\QuanLyThueXe\QuanLyThueXe\obj\Debug\QuanLyThueXe.GUI.TraXePanel.resources
+D:\C#\Phần mềm quản lý thuê  xe\QuanLyThueXe\QuanLyThueXe\obj\Debug\QuanLyThueXe.GUI.XePanel.resources
